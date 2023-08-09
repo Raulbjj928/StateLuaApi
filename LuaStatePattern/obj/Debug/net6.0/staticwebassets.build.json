@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "vUIOAbcKXsxcnmwWFsVuL4PezVliEM9YcEb0itjSLN0=",
+  "Source": "LuaStatePattern",
+  "BasePath": "_content/LuaStatePattern",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "LuaStatePattern\\wwwroot",
+      "Source": "LuaStatePattern",
+      "ContentRoot": "C:\\Estudos\\Devs2Blu\\LuaStatePattern\\LuaStatePattern\\wwwroot\\",
+      "BasePath": "_content/LuaStatePattern",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Estudos\\Devs2Blu\\LuaStatePattern\\LuaStatePattern\\wwwroot\\test.txt",
+      "SourceId": "LuaStatePattern",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Estudos\\Devs2Blu\\LuaStatePattern\\LuaStatePattern\\wwwroot\\",
+      "BasePath": "_content/LuaStatePattern",
+      "RelativePath": "test.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\test.txt"
+    }
+  ]
+}
